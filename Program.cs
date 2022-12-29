@@ -11,7 +11,8 @@ namespace SnakeandLadderProblem
         static void Main(string[] args)
         {
             //Console.WriteLine("Welcome To Snake And Ladder Program");
-            SnakeLadder.SinglePlayer();
+            //SnakeLadder.SinglePlayer();
+              RollsDie.Rolls();
 
             Console.WriteLine();
         }
