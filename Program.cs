@@ -10,8 +10,8 @@ namespace SnakeandLadderProblem
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome To Snake And Ladder Program");
-            //SnakeLadder.SinglePlayer();
+            //Console.WriteLine("Welcome To Snake And Ladder Program");
+            SnakeLadder.SinglePlayer();
 
             Console.WriteLine();
         }
