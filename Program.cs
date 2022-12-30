@@ -15,7 +15,8 @@ namespace SnakeandLadderProblem
             //RollsDie.Rolls();
             //ChecksForOption.SnakeLadder();
             //TillWinning.TillPosition100();
-              ExactWinning.Winning();
+            //ExactWinning.Winning();
+              Position.DieCountTillWin();
 
             Console.WriteLine();
         }
